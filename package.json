@@ -1,0 +1,24 @@
+{
+  "name": "andreas-revision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "agenda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasanthkumar10/andreas-revision.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasanthkumar10/andreas-revision/issues"
+  },
+  "homepage": "https://github.com/vasanthkumar10/andreas-revision#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "vasanth-constant": "^1.0.0"
+  }
+}
